@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/JournaliT/static/css/main.41a59d43.css",
+    "main.css": "/JournaliT/static/css/main.bd9e2f8f.css",
     "main.js": "/JournaliT/static/js/main.ec958f8b.js",
     "static/js/787.d4a02afb.chunk.js": "/JournaliT/static/js/787.d4a02afb.chunk.js",
     "index.html": "/JournaliT/index.html",
-    "main.41a59d43.css.map": "/JournaliT/static/css/main.41a59d43.css.map",
+    "main.bd9e2f8f.css.map": "/JournaliT/static/css/main.bd9e2f8f.css.map",
     "main.ec958f8b.js.map": "/JournaliT/static/js/main.ec958f8b.js.map",
     "787.d4a02afb.chunk.js.map": "/JournaliT/static/js/787.d4a02afb.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.41a59d43.css",
+    "static/css/main.bd9e2f8f.css",
     "static/js/main.ec958f8b.js"
   ]
 }
