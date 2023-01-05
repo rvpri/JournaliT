@@ -127,6 +127,12 @@ input[type="submit"],input[type="button"] {
     order: 1;
   }
 
+  .myclass .form-container textarea {
+    height: 300px;
+    margin-bottom: 20px;
+  }
+  
+
   .display-container {
     order: 2;
     width: 70%;
